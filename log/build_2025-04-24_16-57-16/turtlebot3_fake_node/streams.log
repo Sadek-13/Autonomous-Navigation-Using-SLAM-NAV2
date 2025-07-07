@@ -1,0 +1,55 @@
+[0.015s] Invoking command in '/home/golam_sadek/turtlebot3_ws/build/turtlebot3_fake_node': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/golam_sadek/turtlebot3_drlnav/install/turtlebot3_drl:/home/golam_sadek/ros2_ws/install/turtlesim_catch_them_all:/home/golam_sadek/ros2_ws/install/my_robot_description:/home/golam_sadek/ros2_ws/install/my_py_pkg:/home/golam_sadek/ros2_ws/install/my_cpp_pkg:/opt/ros/humble /usr/bin/cmake /home/golam_sadek/turtlebot3_ws/src/turtlebot3_fake_node -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/golam_sadek/turtlebot3_ws/install/turtlebot3_fake_node
+[0.028s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.158s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.167s] -- Found geometry_msgs: 4.8.0 (/opt/ros/humble/share/geometry_msgs/cmake)
+[0.191s] -- Found rosidl_generator_c: 3.1.6 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.193s] -- Found rosidl_adapter: 3.1.6 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.198s] -- Found rosidl_generator_cpp: 3.1.6 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.208s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.219s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.254s] -- Found nav_msgs: 4.8.0 (/opt/ros/humble/share/nav_msgs/cmake)
+[0.268s] -- Found rclcpp: 16.0.12 (/opt/ros/humble/share/rclcpp/cmake)
+[0.290s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[0.292s] -- Found rmw_cyclonedds_cpp: 1.3.4 (/opt/ros/humble/share/rmw_cyclonedds_cpp/cmake)
+[0.308s] -- Using RMW implementation 'rmw_cyclonedds_cpp' as default
+[0.341s] -- Found sensor_msgs: 4.8.0 (/opt/ros/humble/share/sensor_msgs/cmake)
+[0.356s] -- Found tf2: 0.25.12 (/opt/ros/humble/share/tf2/cmake)
+[0.363s] -- Found tf2_msgs: 0.25.12 (/opt/ros/humble/share/tf2_msgs/cmake)
+[0.416s] -- Found turtlebot3_msgs: 2.2.1 (/home/golam_sadek/turtlebot3_drlnav/install/turtlebot3_msgs/share/turtlebot3_msgs/cmake)
+[0.531s] -- Configuring done
+[0.543s] -- Generating done
+[0.547s] -- Build files have been written to: /home/golam_sadek/turtlebot3_ws/build/turtlebot3_fake_node
+[0.554s] Invoked command in '/home/golam_sadek/turtlebot3_ws/build/turtlebot3_fake_node' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/golam_sadek/turtlebot3_drlnav/install/turtlebot3_drl:/home/golam_sadek/ros2_ws/install/turtlesim_catch_them_all:/home/golam_sadek/ros2_ws/install/my_robot_description:/home/golam_sadek/ros2_ws/install/my_py_pkg:/home/golam_sadek/ros2_ws/install/my_cpp_pkg:/opt/ros/humble /usr/bin/cmake /home/golam_sadek/turtlebot3_ws/src/turtlebot3_fake_node -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/golam_sadek/turtlebot3_ws/install/turtlebot3_fake_node
+[0.556s] Invoking command in '/home/golam_sadek/turtlebot3_ws/build/turtlebot3_fake_node': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/golam_sadek/turtlebot3_drlnav/install/turtlebot3_drl:/home/golam_sadek/ros2_ws/install/turtlesim_catch_them_all:/home/golam_sadek/ros2_ws/install/my_robot_description:/home/golam_sadek/ros2_ws/install/my_py_pkg:/home/golam_sadek/ros2_ws/install/my_cpp_pkg:/opt/ros/humble /usr/bin/cmake --build /home/golam_sadek/turtlebot3_ws/build/turtlebot3_fake_node -- -j8 -l8
+[0.596s] [35m[1mConsolidate compiler generated dependencies of target turtlebot3_fake_node[0m
+[0.611s] [ 50%] [32m[1mLinking CXX executable turtlebot3_fake_node[0m
+[1.165s] [100%] Built target turtlebot3_fake_node
+[1.176s] Invoked command in '/home/golam_sadek/turtlebot3_ws/build/turtlebot3_fake_node' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/golam_sadek/turtlebot3_drlnav/install/turtlebot3_drl:/home/golam_sadek/ros2_ws/install/turtlesim_catch_them_all:/home/golam_sadek/ros2_ws/install/my_robot_description:/home/golam_sadek/ros2_ws/install/my_py_pkg:/home/golam_sadek/ros2_ws/install/my_cpp_pkg:/opt/ros/humble /usr/bin/cmake --build /home/golam_sadek/turtlebot3_ws/build/turtlebot3_fake_node -- -j8 -l8
+[1.190s] Invoking command in '/home/golam_sadek/turtlebot3_ws/build/turtlebot3_fake_node': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/golam_sadek/turtlebot3_drlnav/install/turtlebot3_drl:/home/golam_sadek/ros2_ws/install/turtlesim_catch_them_all:/home/golam_sadek/ros2_ws/install/my_robot_description:/home/golam_sadek/ros2_ws/install/my_py_pkg:/home/golam_sadek/ros2_ws/install/my_cpp_pkg:/opt/ros/humble /usr/bin/cmake --install /home/golam_sadek/turtlebot3_ws/build/turtlebot3_fake_node
+[1.198s] -- Install configuration: ""
+[1.199s] -- Execute custom install script
+[1.199s] -- Symlinking: /home/golam_sadek/turtlebot3_ws/install/turtlebot3_fake_node/lib/turtlebot3_fake_node/turtlebot3_fake_node
+[1.209s] -- Symlinking: /home/golam_sadek/turtlebot3_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/launch/rviz2.launch.py
+[1.219s] -- Symlinking: /home/golam_sadek/turtlebot3_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/launch/turtlebot3_fake_node.launch.py
+[1.228s] -- Symlinking: /home/golam_sadek/turtlebot3_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/param/burger.yaml
+[1.237s] -- Symlinking: /home/golam_sadek/turtlebot3_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/param/waffle.yaml
+[1.247s] -- Symlinking: /home/golam_sadek/turtlebot3_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/param/waffle_pi.yaml
+[1.256s] -- Symlinking: /home/golam_sadek/turtlebot3_ws/install/turtlebot3_fake_node/include//turtlebot3_fake_node/turtlebot3_fake_node.hpp
+[1.265s] -- Symlinking: /home/golam_sadek/turtlebot3_ws/install/turtlebot3_fake_node/share/ament_index/resource_index/package_run_dependencies/turtlebot3_fake_node
+[1.274s] -- Symlinking: /home/golam_sadek/turtlebot3_ws/install/turtlebot3_fake_node/share/ament_index/resource_index/parent_prefix_path/turtlebot3_fake_node
+[1.284s] -- Symlinking: /home/golam_sadek/turtlebot3_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/environment/ament_prefix_path.sh
+[1.293s] -- Symlinking: /home/golam_sadek/turtlebot3_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/environment/ament_prefix_path.dsv
+[1.303s] -- Symlinking: /home/golam_sadek/turtlebot3_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/environment/path.sh
+[1.314s] -- Symlinking: /home/golam_sadek/turtlebot3_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/environment/path.dsv
+[1.325s] -- Symlinking: /home/golam_sadek/turtlebot3_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/local_setup.bash
+[1.338s] -- Symlinking: /home/golam_sadek/turtlebot3_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/local_setup.sh
+[1.349s] -- Symlinking: /home/golam_sadek/turtlebot3_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/local_setup.zsh
+[1.360s] -- Symlinking: /home/golam_sadek/turtlebot3_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/local_setup.dsv
+[1.372s] -- Symlinking: /home/golam_sadek/turtlebot3_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/package.dsv
+[1.382s] -- Symlinking: /home/golam_sadek/turtlebot3_ws/install/turtlebot3_fake_node/share/ament_index/resource_index/packages/turtlebot3_fake_node
+[1.393s] -- Symlinking: /home/golam_sadek/turtlebot3_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/cmake/ament_cmake_export_include_directories-extras.cmake
+[1.404s] -- Symlinking: /home/golam_sadek/turtlebot3_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/cmake/ament_cmake_export_dependencies-extras.cmake
+[1.414s] -- Symlinking: /home/golam_sadek/turtlebot3_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/cmake/turtlebot3_fake_nodeConfig.cmake
+[1.423s] -- Symlinking: /home/golam_sadek/turtlebot3_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/cmake/turtlebot3_fake_nodeConfig-version.cmake
+[1.433s] -- Symlinking: /home/golam_sadek/turtlebot3_ws/install/turtlebot3_fake_node/share/turtlebot3_fake_node/package.xml
+[1.448s] Invoked command in '/home/golam_sadek/turtlebot3_ws/build/turtlebot3_fake_node' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/golam_sadek/turtlebot3_drlnav/install/turtlebot3_drl:/home/golam_sadek/ros2_ws/install/turtlesim_catch_them_all:/home/golam_sadek/ros2_ws/install/my_robot_description:/home/golam_sadek/ros2_ws/install/my_py_pkg:/home/golam_sadek/ros2_ws/install/my_cpp_pkg:/opt/ros/humble /usr/bin/cmake --install /home/golam_sadek/turtlebot3_ws/build/turtlebot3_fake_node

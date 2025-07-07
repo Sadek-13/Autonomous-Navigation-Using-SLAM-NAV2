@@ -1,0 +1,1 @@
+/home/golam_sadek/turtlebot3_ws/src/turtlebot3_fake_node/launch/rviz2.launch.py

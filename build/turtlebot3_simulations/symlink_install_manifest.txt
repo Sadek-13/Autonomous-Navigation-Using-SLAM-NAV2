@@ -1,0 +1,15 @@
+/home/golam_sadek/turtlebot3_ws/install/turtlebot3_simulations/share/ament_index/resource_index/package_run_dependencies/turtlebot3_simulations
+/home/golam_sadek/turtlebot3_ws/install/turtlebot3_simulations/share/ament_index/resource_index/parent_prefix_path/turtlebot3_simulations
+/home/golam_sadek/turtlebot3_ws/install/turtlebot3_simulations/share/turtlebot3_simulations/environment/ament_prefix_path.sh
+/home/golam_sadek/turtlebot3_ws/install/turtlebot3_simulations/share/turtlebot3_simulations/environment/ament_prefix_path.dsv
+/home/golam_sadek/turtlebot3_ws/install/turtlebot3_simulations/share/turtlebot3_simulations/environment/path.sh
+/home/golam_sadek/turtlebot3_ws/install/turtlebot3_simulations/share/turtlebot3_simulations/environment/path.dsv
+/home/golam_sadek/turtlebot3_ws/install/turtlebot3_simulations/share/turtlebot3_simulations/local_setup.bash
+/home/golam_sadek/turtlebot3_ws/install/turtlebot3_simulations/share/turtlebot3_simulations/local_setup.sh
+/home/golam_sadek/turtlebot3_ws/install/turtlebot3_simulations/share/turtlebot3_simulations/local_setup.zsh
+/home/golam_sadek/turtlebot3_ws/install/turtlebot3_simulations/share/turtlebot3_simulations/local_setup.dsv
+/home/golam_sadek/turtlebot3_ws/install/turtlebot3_simulations/share/turtlebot3_simulations/package.dsv
+/home/golam_sadek/turtlebot3_ws/install/turtlebot3_simulations/share/ament_index/resource_index/packages/turtlebot3_simulations
+/home/golam_sadek/turtlebot3_ws/install/turtlebot3_simulations/share/turtlebot3_simulations/cmake/turtlebot3_simulationsConfig.cmake
+/home/golam_sadek/turtlebot3_ws/install/turtlebot3_simulations/share/turtlebot3_simulations/cmake/turtlebot3_simulationsConfig-version.cmake
+/home/golam_sadek/turtlebot3_ws/install/turtlebot3_simulations/share/turtlebot3_simulations/package.xml

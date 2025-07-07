@@ -1,0 +1,2 @@
+[0.016s] Invoking command in '/home/golam_sadek/turtlebot3_ws/build/turtlebot3_fake_node': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/golam_sadek/turtlebot3_drlnav/install/turtlebot3_drl:/home/golam_sadek/ros2_ws/install/turtlesim_catch_them_all:/home/golam_sadek/ros2_ws/install/my_robot_description:/home/golam_sadek/ros2_ws/install/my_py_pkg:/home/golam_sadek/ros2_ws/install/my_cpp_pkg:/opt/ros/humble /usr/bin/cmake --build /home/golam_sadek/turtlebot3_ws/build/turtlebot3_fake_node -- -j8 -l8
+[0.073s] [100%] Built target turtlebot3_fake_node
